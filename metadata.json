@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Trading Simulator",
+  "description": "A web-based cryptocurrency trading simulator game where players can buy, sell, and manage a portfolio of virtual cryptocurrencies, navigate market events, and try to maximize their net worth.",
+  "requestFramePermissions": []
+}
